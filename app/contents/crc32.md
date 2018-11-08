@@ -5,6 +5,6 @@ js: https://rawgit.com/emn178/js-crc/master/build/crc.min.js
 method: crc32
 action: Hash
 auto_update: true
-description: CRC-32 online hash function
+description: CRC-32 在线Hash/哈希计算
 keywords: CRC,CRC-32,online,hash
 ---

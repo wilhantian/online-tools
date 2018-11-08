@@ -1,11 +1,11 @@
 ---
-title: SHA224 File Checksum
+title: SHA224 文件校验
 template: page.jade
 js: https://rawgit.com/emn178/js-sha256/master/build/sha256.min.js
 method: sha224
 action: Hash
 auto_update: true
 file_input: true
-description: SHA224 online hash file checksum function
+description: SHA224 在线文件Hash哈希计算工具
 keywords: SHA224,online,hash,checksum
 ---

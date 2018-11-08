@@ -6,6 +6,6 @@ method: shake_128
 bits: 256
 action: Hash
 auto_update: true
-description: Shake-128 online hash function
+description: Shake-128 在线Hash/哈希计算
 keywords: SHA3,Keccak,Shake,online,hash
 ---

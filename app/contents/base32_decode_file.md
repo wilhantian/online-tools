@@ -1,11 +1,11 @@
 ---
-title: Base32 Decode File
+title: Base32 文件解码
 template: page.jade
 js: https://rawgit.com/emn178/hi-base32/master/build/base32.min.js
 method: false
 action: Download
 auto_update: false
-description: Decode and download file from base32 online function
+description: 在线base32解码 转换源文件
 keywords: Base32,online,decode,download
 ---
 <script src="https://rawgit.com/emn178/hi-base64/master/build/base64.min.js"></script>

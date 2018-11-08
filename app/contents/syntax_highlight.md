@@ -1,11 +1,11 @@
 ---
-title: Syntax Highlight
+title: 语法高亮
 template: page.jade
 js: js/syntax-highlight.js
 method: highlight
 action: Highlight
 auto_update: true
-description: Online syntax highlight tool
+description: 在线语法高亮工具
 keywords: syntax highlight
 ---
 <span>

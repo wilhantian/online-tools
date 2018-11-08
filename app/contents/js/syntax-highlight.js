@@ -227,7 +227,7 @@
           refreshRecentLanguages();
         }
       });
-    $('<div class="option-block"><label>Language: </label></div>').append(elements.language).insertBefore('.submit');
+    $('<div class="option-block"><label>语言: </label></div>').append(elements.language).insertBefore('.submit');
 
     var html = '';
     for (var key in LANGUAGES) {
@@ -247,7 +247,7 @@
         localStorage['lastStyle'] = style;
       }
     });
-    $('<div class="option-block"><label>Style: </label></div>').append(elements.style).insertBefore('.submit');
+    $('<div class="option-block"><label>配色风格: </label></div>').append(elements.style).insertBefore('.submit');
 
     html = '';
     STYLES.forEach(function (style) {

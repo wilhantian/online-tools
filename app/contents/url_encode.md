@@ -1,9 +1,9 @@
 ---
-title: URL Encode
+title: URL Encode/URL 编码
 template: page.jade
 method: encodeURIComponent
 action: Encode
 auto_update: true
-description: URL online encode function
+description: 在线URL Encode/URL 编码
 keywords: url,online,encode
 ---
