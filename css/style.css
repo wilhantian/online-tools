@@ -28,7 +28,7 @@ a:hover, a.active {
 }
 
 #body {
-  width: 1024px;
+  width: 100%;
   margin: 0 auto;
   margin-top: 20px;
 }
