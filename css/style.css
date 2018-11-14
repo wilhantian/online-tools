@@ -4,6 +4,9 @@ body, html, h1, h2 {
   font-family: "SF Pro TC","SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
   color: #333;
 }
+body{
+  width: 100%;
+}
 
 a, a:visited {
   color: #828282;
@@ -92,10 +95,16 @@ a:hover, a.active {
   clear: both;
   display: block;
 }
-
+#index{
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 100vw;
+}
 #index .menu {
-  float: left;
+  /* float: left; */
+  /* min-width: 200px; */
   min-width: 200px;
+  width: 100%;
 }
 
 #main {
